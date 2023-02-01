@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://danillakam.github.io/JobsAds/index.html)
+- Live Site URL: [Add live site URL here](https://danillakam.github.io/JobsAds/)
 
 ## My process
 
