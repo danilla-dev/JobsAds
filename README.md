@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live](https://danillakam.github.io/JobsAds/)
+- Live Site URL: [Live](https://danilla-dev.github.io/JobsAds/)
 
 ## My process
 
